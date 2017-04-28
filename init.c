@@ -9,4 +9,5 @@ int main(){
 void ifan()
 {
 	printf("hello world");
+	printf("My Name is imama\n");
 }
